@@ -12,7 +12,7 @@
 # Reach me!
 <center>
 [![Mail](https://img.icons8.com/color/32/000000/gmail--v1.png)](mailto:daavidmontes@gmail.com) daavidmontes@gmail.com
-  </center
+  </center>
 </br>
 [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/david-montes-vicente-b3b340179/) 
 
