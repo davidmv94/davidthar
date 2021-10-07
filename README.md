@@ -1,4 +1,5 @@
-### Hi there, my name is David 👋
+#  Hello, my name is David 👋
+### Freelance full-stack iOS & Android engineer
 
 
 **davidthar/davidthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
