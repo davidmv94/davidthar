@@ -1,8 +1,5 @@
 #  Hello, my name is David 👋
-### Freelance full-stack iOS & Android engineer
-
-
-**davidthar/davidthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning and developing some Android Apps with Kotlin
 
 Here are some ideas to get you started:
 
