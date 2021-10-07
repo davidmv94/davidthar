@@ -11,5 +11,5 @@
 
 # Reach me!
 📩 daavidmontes@gmail.com
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]()
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)]()
 
