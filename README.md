@@ -11,5 +11,6 @@
 
 # Reach me!
 📩 daavidmontes@gmail.com
-[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)]()
+</br>
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)]() https://www.linkedin.com/in/david-montes-vicente-b3b340179/
 
