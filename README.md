@@ -10,5 +10,6 @@
 
 
 # Reach me!
-📩 daavidmontes@gmail.com (mailto:braismoure@mouredev.com)
+📩 daavidmontes@gmail.com
+
 
