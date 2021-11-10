@@ -1,16 +1,21 @@
-#  Hello, my name is David 👋
-- 📲 I'm currently learning and developing some Android Apps with Kotlin.
-- 💻 Currently working as Helpdesk.
+<h1 align="center">Hi 👋, I'm David Montes</h1>
+<h3 align="center">A junior android developer</h3>
 
+- 🔭 I’m currently working as **Helpdesk**
 
-# Skills
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)   
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)   
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+- 🌱 I’m currently learning **Kotlin**
 
+- 👯 I’m looking to work as **Junior Developer**
 
-# Reach me!
+- 📫 How to reach me **daavidmontes@gmail.com**
 
-[![Mail](https://img.icons8.com/color/32/000000/gmail--v1.png)](mailto:daavidmontes@gmail.com)
-[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/david-montes-vicente-b3b340179/) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/davidthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidthar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david-montes-vicente-b3b340179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-montes-vicente-b3b340179" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidthar&show_icons=true&locale=en" alt="davidthar" /></p>
