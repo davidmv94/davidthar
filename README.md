@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm David Montes</h1>
-<h3 align="center">A junior android developer</h3>
+<h1 align="center">Hola 👋, soy David Montes</h1>
+<h3 align="center">Junior Android Developer</h3>
 
-- 🔭 I’m currently working as **Helpdesk**
+- 🔭 Estoy actualmente trabajando como **Helpdesk**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 Aprendiendo **Kotlin**
 
-- 👯 I’m looking to work as **Junior Developer**
+- 👯 Busco trabajar como **Junior Android Developer**
 
-- 📫 How to reach me **daavidmontes@gmail.com**
+- 📫 Puedes contactarme en **daavidmontes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
