@@ -9,7 +9,7 @@
 
 - 📫 Puedes contactarme en **daavidmontes@gmail.com**
 
-![https://github.com/davidthar/Conecta4](https://raw.githubusercontent.com/davidthar/davidthar/main/100_cims_feec_catalunya_banner.png)
+![https://github.com/davidthar/Conecta4](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_100cims.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
