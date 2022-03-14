@@ -14,7 +14,7 @@ Actualmente estoy desarrollando aplicaciones Android con Kotlin, con la intenci√
 
 [![100Cims](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_100cims_small.png)](https://play.google.com/store/apps/details?id=com.catalunya.cims100)[![Frases](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_frases_small.png)](https://play.google.com/store/apps/details?id=com.movie.quotes.frases.peliculas)
 
-[![GuessTheGame](https://raw.githubusercontent.com/davidthar/davidthar/94f5f9d556fe393e71c3e3549c17d04890f125d4/portfolio_guessthegame_small.png)](https://play.google.com/store/apps/details?id=com.bawindev.guessgame)
+[![GuessTheGame](https://raw.githubusercontent.com/davidthar/davidthar/94f5f9d556fe393e71c3e3549c17d04890f125d4/portfolio_guessthegame_small.png)](https://play.google.com/store/apps/details?id=com.bawindev.guessgame)[![Potter](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_potter_small.png)](https://github.com/davidthar/QuizApp)
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
