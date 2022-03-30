@@ -12,9 +12,7 @@ Actualmente estoy desarrollando aplicaciones Android con Kotlin, con la intenciÃ
 
 <h1 align="left">Portfolio ðŸ“±</h1>
 
-[![100Cims](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_100cims_small.png)](https://play.google.com/store/apps/details?id=com.catalunya.cims100)[![Frases](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_frases_small.png)](https://play.google.com/store/apps/details?id=com.movie.quotes.frases.peliculas)
-
-[![GuessTheGame](https://github.com/davidthar/davidthar/blob/main/portfolio_guessthegame_small.png?raw=true)](https://play.google.com/store/apps/details?id=com.bawindev.guessgame)[![Potter](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_potter_small.png)](https://github.com/davidthar/QuizApp)
+[![Potter](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_potter_small.png)](https://github.com/davidthar/QuizApp)
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
