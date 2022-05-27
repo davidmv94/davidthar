@@ -7,8 +7,6 @@ Actualmente estoy desarrollando aplicaciones Android con Kotlin, con la intenciÃ
 [![Mail](https://badgen.net/badge/mail/daavidmontes@gmail.com/orange)](mailto:daavidmontes@gmail.com)
 </br>
 [![Linkedin](https://badgen.net/badge/linkedin/David%20Montes%20Vicente/blue)](https://www.linkedin.com/in/david-montes-vicente/)
-</br>
-[![Twitter](https://badgen.net/badge/twitter/davidthar/cyan)](https://twitter.com/DavidThar)
 
 <h1 align="left">Portfolio ğŸ“±</h1>
 
