@@ -13,6 +13,7 @@ Actualmente estoy desarrollando aplicaciones Android con Kotlin, con la intenciÃ
 <h1 align="left">Portfolio ðŸ“±</h1>
 
 [![Potter](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_potter_small.png)](https://github.com/davidthar/QuizApp)
+[![StarWars](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_starwars_small.png)](https://github.com/davidthar/StarWarsMemory)
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
