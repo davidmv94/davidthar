@@ -1,12 +1,11 @@
 <h1>Sobre mi 🧑🏻</h1>
-Actualmente estoy desarrollando aplicaciones Android con Kotlin, con la intención de terminar dedicandome laboralmente a ello.
+Hola! Soy David Montes, actualmente estoy finalizando el grado superior de Desarrollo de Aplicaciones Multiplataforma, mientras voy aprendiendo Kotlin por mi cuenta para desarrollo en Android. Mi intención es terminar dedicándome a esto.
 
 
 <h3>Contacto:</h3>
 
-[![Mail](https://badgen.net/badge/mail/daavidmontes@gmail.com/orange)](mailto:daavidmontes@gmail.com)
-</br>
-[![Linkedin](https://badgen.net/badge/linkedin/David%20Montes%20Vicente/blue)](https://www.linkedin.com/in/david-montes-vicente/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:daavidmontes@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-montes-vicente/)
 
 <h1 align="left">Portfolio 📱</h1>
 
