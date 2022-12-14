@@ -1,5 +1,5 @@
 <h1>Sobre mi 🧑🏻</h1>
-Hola! Soy David Montes, actualmente estoy finalizando el grado superior de Desarrollo de Aplicaciones Multiplataforma, mientras voy aprendiendo Kotlin por mi cuenta para desarrollo en Android. Mi intención es terminar dedicándome a esto.
+Hola! Soy David, actualmente estoy finalizando el grado superior de Desarrollo de Aplicaciones Multiplataforma, mientras voy aprendiendo Kotlin por mi cuenta para desarrollo en Android. Mi intención es terminar dedicándome a esto.
 
 
 <h3>Contacto:</h3>
