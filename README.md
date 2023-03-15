@@ -7,8 +7,8 @@
 
 <h1 align="left">Portfolio 📱</h1>
 
-[![Potter](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_potter_small.png)](https://github.com/davidthar/QuizApp)
-[![StarWars](https://raw.githubusercontent.com/davidthar/davidthar/main/portfolio_starwars_small.png)](https://github.com/davidthar/StarWarsMemory)
+[![Potter](https://github.com/davidthar/davidthar/blob/main/portfolio_potter.png?raw=true)](https://github.com/davidthar/QuizApp)
+[![StarWars](https://github.com/davidthar/davidthar/blob/main/portfolio_starwars.png?raw=true)](https://github.com/davidthar/StarWarsMemory)
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
